@@ -4,9 +4,8 @@
 #### 路线学习：
 方式一：先学习立创EDA，再学习AD
 方式二：直接学习AD
-##### 学习链接
-
-
+#### 学习链接 AD: https://www.bilibili.com/video/BV16t411N7RD?spm_id_from=333.337.search-card.all.click
+             立创eda: https://docs.lceda.cn/cn/FAQ/Editor/index.html
 
 
 
