@@ -88,3 +88,10 @@ https://www.bilibili.com/video/BV11a411x75o?spm_id_from=333.337.search-card.all.
 7.嵌入式开发：
 
 B站的江科大自动化的stm32教学（使用库函数进行32的开发）、正点原子的hal库教学。
+
+
+
+
+
+好啦，看完后，咱们就一步一步来，先按照lesson_one 开始吧，请关注readme.md文件
+
