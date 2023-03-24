@@ -37,7 +37,7 @@ this is a project for rc_hardware_design beginner
 5. 具有较好的团队协作意识与电控的沟通能力。
   
 
-#### 三学习建议
+### 三学习建议
 
  **软件推荐**
 
